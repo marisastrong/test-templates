@@ -1,23 +1,21 @@
-# Merritt release template.
+# Merritt release template
 # Service(s)
 
-#Servers affected
+# Servers affected
 
-#Description of Changes for this deployment
+# Change Description
 
-#Infrastructure Changes to support software (ALB, EFS, etc)
+# Github issue
+Link(s)
+
+# Source Code:
+Link(s) to tagged release(s)
  
-#Jenkins:
-## build name/number
-## build URL
-
-#github issue
-link to story
-
-#Use Case/Reason for Change
-
-#Source Code:
-link to github repo / pull request
+# Infrastructure Changes to support software (ALB, EFS, etc)
  
-# Upgrade Steps
-- [ ] action step 1
+# Jenkins: (if applicable)
+## Build name/number
+## Build URL
+
+# Upgrade Steps (if applicable)
+- [ ] Action Step 1

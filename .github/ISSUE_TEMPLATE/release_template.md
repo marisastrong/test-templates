@@ -1,4 +1,4 @@
-# Merritt release template
+# Merritt Release
 # Service(s)
 
 # Servers affected

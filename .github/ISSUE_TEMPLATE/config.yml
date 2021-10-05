@@ -1,5 +1,5 @@
 blank_issues_enabled: false
-contact_links:
+custom_links:
   - name: Tag a Release 
     url: https://github.com/CDLUC3/mrt-doc/releases/new
     about: Create a tag and reference the release issue

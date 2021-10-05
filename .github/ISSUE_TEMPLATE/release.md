@@ -1,8 +1,8 @@
 ---
 name: Release
-about: Release information for a deployment
-title: Deployment
-labels: ''
+about: Release steps and information for a deployment
+title: "[RELEASE]"
+labels: release
 assignees: ''
 
 ---
